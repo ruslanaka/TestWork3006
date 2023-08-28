@@ -1,0 +1,269 @@
+2023-08-26T21:40:15+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 157
+
+2023-08-26T21:40:16+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 157
+
+2023-08-26T21:40:16+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 157
+
+2023-08-26T21:40:16+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 157
+
+2023-08-26T21:40:16+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 157
+
+2023-08-26T21:40:17+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 157
+
+2023-08-26T21:40:17+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 157
+
+2023-08-26T21:41:14+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 152
+
+2023-08-26T21:41:14+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 152
+
+2023-08-26T21:41:14+00:00 CRITICAL Cannot redeclare custom_product_image_meta_box() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php:83) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/functions.php на строке 152
+
+2023-08-26T22:30:01+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create_product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:02+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create_product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:22+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create_product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:23+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create_product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:29+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create_product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:30+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create_product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:30+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create_product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:52+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/page.php(7): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:53+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/page.php(7): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:54+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/page.php(7): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:55+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/page.php(7): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:55+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/page.php(7): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:30:56+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/page.php(7): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:31:08+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create-product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:31:08+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create-product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:31:09+00:00 CRITICAL Uncaught Error: Call to undefined function typical_title() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php:21
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(785): require_once()
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template.php(720): load_template('/home/b/beautyk...', true, Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/create-product.php(5): get_header()
+#4 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/template-loader.php(106): include('/home/b/beautyk...')
+#5 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-blog-header.php(19): require_once('/home/b/beautyk...')
+#6 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/index.php(17): require('/home/b/beautyk...')
+#7 {main в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/woocommerce/header.php на строке 21
+
+2023-08-26T22:36:40+00:00 CRITICAL Cannot redeclare storefront_do_shortcode() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/inc/storefront-functions.php:28) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront/inc/storefront-functions.php на строке 28
+
+2023-08-26T22:36:41+00:00 CRITICAL Cannot redeclare storefront_do_shortcode() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/inc/storefront-functions.php:28) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront/inc/storefront-functions.php на строке 28
+
+2023-08-26T22:48:47+00:00 CRITICAL Uncaught Error: Call to undefined function wc_create_product() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:187
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 187
+
+2023-08-26T22:50:09+00:00 CRITICAL Uncaught Error: Call to undefined function wc_create_product() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:187
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 187
+
+2023-08-26T22:50:40+00:00 CRITICAL Uncaught Error: Call to undefined function wc_create_product() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:187
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 187
+
+2023-08-26T22:53:05+00:00 CRITICAL Uncaught Error: Call to undefined function wc_create_product() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:187
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 187
+
+2023-08-26T22:56:38+00:00 CRITICAL Uncaught Error: Call to undefined function wc_create_product() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:187
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 187
+
+2023-08-26T22:58:48+00:00 CRITICAL Uncaught Error: Call to undefined function wc_create_product() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:187
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 187
+
+2023-08-26T22:59:52+00:00 CRITICAL Uncaught Error: Call to undefined function wc_create_product() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:190
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 190
+

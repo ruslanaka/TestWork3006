@@ -1,0 +1,167 @@
+2023-08-27T07:48:17+00:00 CRITICAL syntax error, unexpected '?>' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/create-product.php на строке 7
+
+2023-08-27T07:48:18+00:00 CRITICAL syntax error, unexpected '?>' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/create-product.php на строке 7
+
+2023-08-27T07:48:20+00:00 CRITICAL syntax error, unexpected '?>' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/create-product.php на строке 7
+
+2023-08-27T07:48:20+00:00 CRITICAL syntax error, unexpected '?>' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/create-product.php на строке 7
+
+2023-08-27T08:13:43+00:00 CRITICAL Uncaught Error: Call to undefined function upload_product_image() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:198
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 198
+
+2023-08-27T08:13:58+00:00 CRITICAL Uncaught Error: Call to undefined function upload_product_image() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:198
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 198
+
+2023-08-27T08:15:13+00:00 CRITICAL Uncaught Error: Call to undefined function upload_product_image() in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:198
+Stack trace:
+#0 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(310): ajax_add_product('')
+#1 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_add_pro...')
+#4 {main}
+  thrown в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 198
+
+2023-08-27T09:10:17+00:00 CRITICAL syntax error, unexpected '$file_name' (T_VARIABLE) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 213
+
+2023-08-27T09:23:59+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:24:24+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:26:00+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:26:25+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:28:01+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:28:26+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:30:03+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:30:27+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:32:03+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:32:29+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:34:04+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:34:29+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:36:05+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:36:30+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:38:06+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:38:09+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:38:10+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:38:10+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:38:11+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:38:11+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:38:11+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T09:38:31+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 296
+
+2023-08-27T20:01:32+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 336
+
+2023-08-27T20:01:32+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 336
+
+2023-08-27T20:01:32+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 336
+
+2023-08-27T20:01:34+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 336
+
+2023-08-27T20:01:34+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 336
+
+2023-08-27T20:01:34+00:00 CRITICAL syntax error, unexpected end of file в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 336
+
+2023-08-27T20:45:44+00:00 CRITICAL syntax error, unexpected '{' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 219
+
+2023-08-27T22:14:43+00:00 CRITICAL syntax error, unexpected ',', expecting ')' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 159
+
+2023-08-27T22:14:43+00:00 CRITICAL syntax error, unexpected ',', expecting ')' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 159
+
+2023-08-27T22:14:43+00:00 CRITICAL syntax error, unexpected ',', expecting ')' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 159
+
+2023-08-27T22:14:44+00:00 CRITICAL syntax error, unexpected ',', expecting ')' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 159
+
+2023-08-27T22:14:44+00:00 CRITICAL syntax error, unexpected ',', expecting ')' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 159
+
+2023-08-27T22:14:45+00:00 CRITICAL syntax error, unexpected ',', expecting ')' в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 159
+
+2023-08-27T22:15:39+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:39+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:39+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:40+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:40+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:40+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:45+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:45+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:45+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:50+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:50+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:50+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:51+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:51+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:55+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:57+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:58+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:58+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:58+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:58+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:59+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:59+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:15:59+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:16:38+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:16:42+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:16:43+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:16:43+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 177
+
+2023-08-27T22:19:43+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 179
+
+2023-08-27T22:19:43+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 179
+
+2023-08-27T22:19:43+00:00 CRITICAL Cannot redeclare replace_product_image_column() (previously declared in /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php:155) в /home/b/beautykiss/woocommerce_gridkit_ru/public_html/wp-content/themes/storefront-child/functions.php на строке 179
+

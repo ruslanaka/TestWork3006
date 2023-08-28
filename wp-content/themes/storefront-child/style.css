@@ -1,0 +1,10 @@
+/*
+Theme Name: storefront-child-theme
+Template: storefront
+*/
+
+#add-product-form label
+{
+	width: 200px;
+	display: inline-block;
+}
